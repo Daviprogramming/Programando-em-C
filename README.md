@@ -7,7 +7,7 @@
 
 Este repositório contém o acervo de códigos, exercícios e anotações desenvolvidos durante a cadeira de **Introdução à Programação 1**. 
 
-O objetivo principal destes arquivos foi documentar meu aprendizado na linguagem **C** e praticar lógica de programação ao longo do semestre na **[Insira o nome da sua Faculdade/Universidade aqui]**.
+O objetivo principal destes arquivos foi documentar meu aprendizado na linguagem **C** e praticar lógica de programação ao longo do semestre na **Universidade Federal Rural de Pernambuco**.
 
  Cada arquivo representa os exercícios práticos realizados na respectiva aula.
 
