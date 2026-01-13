@@ -1,11 +1,11 @@
-# 📚 Introdução à Programação 1 - Linguagem C
+# 📚 Introdução à Programação  - Linguagem C
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
 ## 📝 Sobre o Projeto
 
-Este repositório contém o acervo de códigos, exercícios e anotações desenvolvidos durante a cadeira de **Introdução à Programação 1**. 
+Este repositório contém o acervo de códigos, exercícios e anotações desenvolvidos durante a cadeira de **Introdução à Programação**. 
 
 O objetivo principal destes arquivos foi documentar meu aprendizado na linguagem **C** e praticar lógica de programação ao longo do semestre na **Universidade Federal Rural de Pernambuco**.
 
